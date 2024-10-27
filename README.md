@@ -6,6 +6,8 @@ Nice to meet you, if you wanna know more about me, you can read the introducing 
 
 ---
 
+### My Info
+
 - 🌱 Currently learning: ReactNative, TypeScript, Photography, Dressing
 - 🌟 Interested in: Coding, Wotagei, Photography, Gaming, Dressing
 - 💼 Working on: None
