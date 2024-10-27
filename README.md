@@ -2,6 +2,10 @@
 
 ### I'm Josh (a.k.a Whydog, Whitedog)!
 
+Nice to meet you, if you wanna know more about me, you can read the introducing below ><
+
+---
+
 - 🌱 Currently learning: ReactNative, TypeScript, Photography, Dressing
 - 🌟 Interested in: Coding, Wotagei, Photography, Gaming, Dressing
 - 💼 Working on: None
