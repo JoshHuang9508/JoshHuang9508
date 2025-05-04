@@ -1,40 +1,31 @@
-# Hello World! 👋
+<img width="100%" src="https://imgur-archive.ppy.sh/discord/999960704578760716-1079438951858835476-image.png"></img>
 
-### I'm Josh (a.k.a Whydog, Whitedog)!
+## Tech Stack
+<div align="center">
+  <img width="250" src="https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/refs/heads/main/C%23/C%23%20Purple.png"></img>
+  <img width="250" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/React.png"></img>
+  <img width="250" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/Node.js.png"></img>
+  
+  <img width="250" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/TypeScript.png"></img>
+  <img width="250" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/Next.js/Next.js.png"></img>
+</div>
 
-Nice to meet you, if you wanna know more about me, you can read the introducing below ><
+## Stats
+<div align="center">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHuang9508&theme=tokyonight&hide_border=false"></img>
+  
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
+</div>
 
----
+## Osu! Stats (I'm an osu player too!)
+<div align="center">
+  <img src="https://osu-sig.vercel.app/card?user=-Whitedog-&mode=std&lang=en&animation=true"></img>
+</div>
 
-### My Info
+## Contact Me
+**E-mail:**
+> joshhuang9508@gmail.com
 
-- 🌱 Currently learning: ReactNative, TypeScript, Photography, Dressing
-- 🌟 Interested in: Coding, Wotagei, Photography, Gaming, Dressing
-- 💼 Working on: None
-- 🎓 Education: National Taiwan University of Science and Technology
-- 📫 Reach me at: joshhuang9508@gmail.com
-- 🐱 Fun fact: Yeci
-
----
-
-### 🛠️ My Tech Stack
-
-- **Programming Languages**: JavaScript, TypeScript, C#
-- **Web**: HTML, CSS
-- **Framework**: Node.js, React.js, Express.js
-- **Databases**: Not yet
-- **Toolbox**: VSCode, VisualStudio, Unity, Postman, Paint.NET, Word, Excel, Github
-
----
-
-### 📈 Osu! Stats (I'm an osu player too!)
-
-![My osu profile](https://osu-sig.vercel.app/card?user=-Whitedog-&mode=std&lang=en&animation=true)
-
----
-
-### 📫 Connect Me
-
-- [GitHub](https://github.com/JoshHuang9508)
-
-Thanks for stopping by! 😊
+**Discord:**
+> whydog (Whydog#0860)
