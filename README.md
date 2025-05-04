@@ -12,10 +12,10 @@
 
 ## Stats
 <div align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHuang9508&theme=tokyonight&hide_border=false"></img>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHuang9508&theme=tokyonight&hide_border=false"></img>
   
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
 </div>
 
 ## Osu! Stats (I'm an osu player too!)
