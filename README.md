@@ -17,17 +17,12 @@
   ### 」　　　　　　.
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <h1></h1>
 
 <div align="center">
   
-  ### MY TECH STACK
+  ### TECH STACK
 </div>
 <div align="center">
   <img width="180" src="https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/refs/heads/main/C%23/C%23%20Purple.png"></img>
@@ -44,11 +39,15 @@
   ### GITHUB STATS
 </div>
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHuang9508&theme=tokyonight&hide_border=false"></img>
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHuang9508&theme=tokyonight&hide_border=false"></img>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoshHuang9508/JoshHuang9508/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoshHuang9508/JoshHuang9508/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <h1></h1>
 
