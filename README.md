@@ -40,9 +40,9 @@
   ### GITHUB STATS
 </div>
 <div align="center">
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHuang9508&theme=tokyonight&hide_border=false"></img>
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
+  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshHuang9508&theme=tokyonight&hide_border=false"></img>
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHuang9508&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoshHuang9508/JoshHuang9508/blob/output/github-contribution-grid-snake-dark.svg" />
