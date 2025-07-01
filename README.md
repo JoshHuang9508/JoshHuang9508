@@ -25,11 +25,12 @@
   ### TECH STACK
 </div>
 <div align="center">
-  <img width="180" src="https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/refs/heads/main/C%23/C%23%20Purple.png"></img>
-  <img width="180" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/React.png"></img>
-  <img width="180" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/Node.js.png"></img>
-  <img width="180" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/TypeScript.png"></img>
-  <img width="180" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/Next.js/Next.js.png"></img>
+  <!--   <img width="180" src="https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/refs/heads/main/C%23/C%23%20Purple.png"></img> -->
+  <img width="240" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/React.png"></img>
+  <img width="240" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/Node.js.png"></img>
+  
+  <img width="240" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/TypeScript.png"></img>
+  <img width="240" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/Next.js/Next.js.png"></img>
 </div>
 
 <h1></h1>
