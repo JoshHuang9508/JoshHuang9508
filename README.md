@@ -26,10 +26,10 @@
 </div>
 <div align="center">
   <!--   <img width="180" src="https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/refs/heads/main/C%23/C%23%20Purple.png"></img> -->
-  <img width="200" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/React.png"></img>
-  <img width="200" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/Node.js.png"></img>
-  <img width="200" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/TypeScript.png"></img>
-  <img width="200" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/Next.js/Next.js.png"></img>
+  <img width="200" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/React/png/React.png"></img>
+  <img width="200" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/Node.js/png/Node.js.png"></img>
+  <img width="200" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/TypeScript/png/TypeScript.png"></img>
+  <img width="200" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/Next.js/png/Next.js.png"></img>
 </div>
 
 <h1></h1>
